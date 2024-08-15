@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" width=500  alt="project logo"/>
+</p>
 # Info
 A simple python program that calculates the price of what you're buying. laugh at me all you want.
 # Background
