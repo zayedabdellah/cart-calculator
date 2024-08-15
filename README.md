@@ -9,5 +9,5 @@ Before you say anything, I'm not considered an actual developer... yet, and this
 So don't expect any top-tier code.
 ## Running the program
 1) Install the latest version of [ [Python](https://www.python.org/downloads/) ] if you haven't already.
-2) Download this repository.
+2) Download the latest release of the project.
 3) Launch/Run the `main.py` file.
